@@ -1,0 +1,8 @@
+curso = "Curso de Python"
+curso_nome = curso
+saldo, limite = (200, 200)
+
+print(curso is curso_nome)
+print(curso is saldo)
+print(saldo is not limite)
+print(saldo is limite)
