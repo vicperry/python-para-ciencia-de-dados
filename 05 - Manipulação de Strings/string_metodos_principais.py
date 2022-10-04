@@ -17,4 +17,4 @@ print(nome.center(10, "#"))
 print("-".join(nome))
 
 print(texto.count('mundo')) #conta quantas vezes o parâmetro surge na variável
-print(texto.replace('Olá', 'Tchau')) 
+print(texto.replace('Olá', 'Tchau'))
