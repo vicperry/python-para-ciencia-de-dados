@@ -5,9 +5,9 @@ Em cada pasta, há um conteúdo aprendido durante o curso.
 
 <h2>Conteúdos abordados: </h2>
 <ul>
-  <li>Lógica de programação em Python
-  <li>Análise de dados com Python e Pandas
-  <li>Estrutura de dados em Python
+  <li>Lógica de programação e algoritmos
+  <li>Análise de dados com Pandas
+  <li>Estruturas de dados
 </ul>
 
 <br>
