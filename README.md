@@ -7,7 +7,7 @@ Em cada pasta, há um conteúdo aprendido durante o curso.
 <ul>
   <li>Lógica de programação e algoritmos
   <li>Análise de dados com Pandas
-  <li>Estruturas de dados
+  <li>Estruturas de dados em Python
 </ul>
 
 <br>
