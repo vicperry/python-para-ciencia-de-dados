@@ -1,5 +1,5 @@
 #Interfaces definem o que uma classe deve fazer e não como. Para construir uma interface em Python, cria-se uma classe abstrata que vai sar herança para uma classe filha. Assim se aplica um contrato de interface no Python.
-
+#Importe o módulo abc para isso.
 from abc import ABC,abstractmethod, abstractproperty
 
 class ControleRemoto(ABC):
