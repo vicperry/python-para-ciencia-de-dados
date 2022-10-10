@@ -8,6 +8,8 @@ Em cada pasta, há um conteúdo aprendido durante o curso.
   <li>Lógica de programação e algoritmos
   <li>Análise de dados com Pandas
   <li>Estruturas de dados em Python
+  <li>Orientação a Objetos
+  <li>Machine Learning
 </ul>
 
 <br>
